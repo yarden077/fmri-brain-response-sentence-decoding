@@ -21,10 +21,8 @@ See the paper in `/paper/acl_our.pdf` for full results.
 
 ## 2  Repository Layout
 ├── project.ipynb               # Structured (Pereira) analyses
-├── open_ended_new.ipynb        # Open-ended (Tuckute) analyses
-├── learn_decoder.py            # Ridge-regression decoder helper
-├── utils/                      # Small utility scripts
-└── README.md                   # You are here
+├── open_ended.ipynb        # Open-ended (Tuckute) analyses
+└── README.md                   
 
 
 *Embedding txt files and raw fMRI matrices are **not** pushed to GitHub for size/privacy.*
