@@ -15,8 +15,6 @@ We combine the datasets of **Pereira et al. (2018)** and **Tuckute et al. (2024)
 | **Entity type effects** | OLS per ROI with one-hot entity types | PERSON/ORG drive IFG, LANGUAGE drives anterior temporal |
 | **Sentiment** | RoBERTa valence vs. human ratings; brain response by sentiment | Negative > Neutral ≈ Positive |
 
-See our paper in `Neural Responses to Linguistic Features: Named Entities and Sentiment Analysis.pdf` for full results.
-
 ---
 
 ## 2  Repository Layout
